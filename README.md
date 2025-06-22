@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi</h1>
 <h3 align="center">I've recently taken a deep dive into the world of open source and I'm thrilled by the idea of collaborative development. I'm eager to learn, contribute, and grow within this vibrant community✨</h3>
 
-- 🌱 I’m currently learning **MERN Stack** and **Machine Learning**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 🔭 I have worked as Open source contributor at **GSSOC'24**
+- 🔭 I  worked as an Open source contributor at **GSSOC'24**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
