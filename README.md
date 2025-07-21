@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 🔭 I  worked as an Open source contributor at **GSSOC'24**
+- 🔭 I  am  an Open source contributor at **GSSOC'25**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
