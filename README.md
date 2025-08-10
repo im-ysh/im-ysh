@@ -1,9 +1,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Vaishnavi</h1>
-<h3 align="center"> I'm diving into open source and passionate about collaborative development!</h3>
-<h4 align="center"> Currently learning Web Development |  GSSOC'25 Contributor</h4>
+<h1 align="center">Heyyy 👋, I'm Vaishnavi</h1>
+<h3 align="center"> I’m currently exploring and contributing to open-source projects. I enjoy learning from real-world codebases, collaborating with developers, and improving my skills through meaningful contributions!</h3>
 
 ---
 
