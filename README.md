@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzAwb2x3ZDdpdHp1aDY1NnNtc2RxdzR4Y3RvczU3dndkNzU2aDJtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/krQzJaxbU1aXS/giphy.gif" width="400" alt="Photography wave GIF"/>
-</p>
 
 
 
