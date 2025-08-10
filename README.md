@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzAwb2x3ZDdpdHp1aDY1NnNtc2RxdzR4Y3RvczU3dndkNzU2aDJtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/krQzJaxbU1aXS/giphy.gif" width="400" alt="Photography wave GIF"/>
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Vaishnavi</h1>
 <h3 align="center"> I'm diving into open source and passionate about collaborative development!</h3>
 <h4 align="center"> Currently learning Web Development |  GSSOC'25 Contributor</h4>
@@ -26,3 +32,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=im-ysh&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-ysh&theme=react&hide_border=true" alt="GitHub Streak" />
+</p>
